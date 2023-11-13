@@ -1,2 +1,2 @@
-# calculator
-Scientific Calculator
+# Scientific Calculator
+Scientific Calculator using Java Swing and AWT
